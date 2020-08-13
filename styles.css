@@ -1,0 +1,105 @@
+#title{
+    background-color: #ff4c68;
+}
+h1{
+    font-family: 'Cormorant Upright', serif;
+    font-style: bold;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: rgb(255, 255, 255);
+    width: auto;
+}
+
+h2{
+    font-family:'Cormorant Upright-bold', serif ;
+    font-size: 4rem;
+    line-height: 1.5;
+}
+
+h3{
+    font-family:'Cormorant Upright-bold', serif; 
+}
+p{
+    color: gray;
+}
+
+.navbar-brand{
+    font-family: 'Cormorant Upright', serif;
+}
+.nav-item{
+    font-family: 'Cormorant Upright', serif;
+}
+.row{
+    padding-top: 4.5rem; ;
+}
+.download-button{
+    margin: 5% 3% 5% 0;
+}
+#features{
+    padding: 7% 15%;
+    padding-top: 60px;
+}
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+h3{
+    font-family:'Cormorant Upright-bold', serif; 
+}
+p{
+    color: gray;
+}
+.icon{
+    color:#ff4c68 ;
+    margin-bottom: 1rem;
+}
+.icon:hover{
+    color: rgb(251, 103, 103);
+}
+
+#testimonials{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ff4c68;
+    color: white;
+}
+.testimonial-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+#press{
+    text-align: center;
+    background-color:#ff4c68 ;
+    padding-bottom: 3% ;
+}
+.press-logo{
+    width: 10%;
+    margin-left:20px ;
+}
+
+#pricing{
+    padding: 70px 100px 100px 100px;
+    text-align: center;
+}
+.pricing-column{
+    padding: 3% 2%;
+}
+
+#cta{
+    padding: 2% 15%;
+    text-align: center;
+    background-color: #ff4c68;
+    color: white;
+}
+.couple-dog{
+    width: 30%;
+    border-radius: 100%;
+    margin: 10px;
+}
+#footer{
+    text-align: center;
+}
+.icon-2{
+    padding: 20px 10px;
+}
